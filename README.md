@@ -2,6 +2,8 @@
 It's a small fox tamagotchi-clone!
 *Submitted for Hack Club's Hackapet YSWS*
 
+SUBMITTED ON MY GITHUB WHILE THE PR GETS ACCEPTED IN THE HACKAPET GITHUB!!
+
 128x128 screen, ESP32-S2FH4
 
 
