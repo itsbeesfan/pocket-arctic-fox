@@ -21,5 +21,7 @@ are always happily accepted!**
 
 ## DEMOS AND SHOWCASE
 
-https://github.com/user-attachments/assets/03219658-22e2-4309-b8f2-4d26803ae889
-(Basic video on how it looks and works)
+![feeding and stick](https://github.com/user-attachments/assets/9acaefcb-21e8-424c-912d-d26cda9fa1dc)
+![fox dead](https://github.com/user-attachments/assets/2f386d72-8461-4f89-b34c-3b9f97f23749)
+![fox moving](https://github.com/user-attachments/assets/59f40a2a-2517-4049-b17f-b323254a62e3)
+
