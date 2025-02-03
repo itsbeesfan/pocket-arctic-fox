@@ -21,7 +21,7 @@ are always happily accepted!**
 
 ## DEMOS AND SHOWCASE
 
-![feeding and stick](https://github.com/user-attachments/assets/9acaefcb-21e8-424c-912d-d26cda9fa1dc)
-![fox dead](https://github.com/user-attachments/assets/2f386d72-8461-4f89-b34c-3b9f97f23749)
-![fox moving](https://github.com/user-attachments/assets/59f40a2a-2517-4049-b17f-b323254a62e3)
+![feeding and stick](https://github.com/user-attachments/assets/9acaefcb-21e8-424c-912d-d26cda9fa1dc) Feeding and Stick!
+![fox dead](https://github.com/user-attachments/assets/2f386d72-8461-4f89-b34c-3b9f97f23749) Dead Fox :(
+![fox moving](https://github.com/user-attachments/assets/59f40a2a-2517-4049-b17f-b323254a62e3) Fox moving around the screen
 
